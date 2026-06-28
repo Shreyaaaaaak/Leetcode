@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
