@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0605-can-place-flowers](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
