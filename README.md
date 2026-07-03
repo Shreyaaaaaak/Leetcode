@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0412-fizz-buzz) |
+| [1137-n-th-tribonacci-number](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
