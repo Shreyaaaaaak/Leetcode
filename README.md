@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
