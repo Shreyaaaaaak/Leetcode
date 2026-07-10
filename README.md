@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Shreyaaaaaak/Leetcode/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Shreyaaaaaak/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
 | ------- |
